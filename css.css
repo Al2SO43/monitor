@@ -134,9 +134,9 @@ a {
 
 ::-webkit-scrollbar-thumb {
     border-radius: 4px;
-    background-color: #767676;
+    background-color: #202b3c86;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: #484848;
+    background-color: #0d141da4;
 }
