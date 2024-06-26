@@ -126,3 +126,17 @@ a {
     font-weight: 1000;
 }
 
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    background-color: #ffffff00;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: #767676;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #484848;
+}
